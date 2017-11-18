@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/qy-common/qy-common.iml" filepath="$PROJECT_DIR$/qy-common/qy-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qy-manager/qy-manager.iml" filepath="$PROJECT_DIR$/qy-manager/qy-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qy-manager/qy-manager-dao/qy-manager-dao.iml" filepath="$PROJECT_DIR$/qy-manager/qy-manager-dao/qy-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qy-manager/qy-manager-interface/qy-manager-interface.iml" filepath="$PROJECT_DIR$/qy-manager/qy-manager-interface/qy-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qy-manager/qy-manager-pojo/qy-manager-pojo.iml" filepath="$PROJECT_DIR$/qy-manager/qy-manager-pojo/qy-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qy-manager/qy-manager-service/qy-manager-service.iml" filepath="$PROJECT_DIR$/qy-manager/qy-manager-service/qy-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qy-manager/qy-manager-web/qy-manager-web.iml" filepath="$PROJECT_DIR$/qy-manager/qy-manager-web/qy-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qy-parent/qy-parent.iml" filepath="$PROJECT_DIR$/qy-parent/qy-parent.iml" />
+    </modules>
+  </component>
+</project>

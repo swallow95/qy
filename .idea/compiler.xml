@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="qy-common" />
+        <module name="qy-manage-rpojo" />
+        <module name="qy-manager-dao" />
+        <module name="qy-manager-interface" />
+        <module name="qy-manager-pojo" />
+        <module name="qy-manager-service" />
+        <module name="qy-manager-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="qy-common" target="1.8" />
+      <module name="qy-manage-rpojo" target="1.8" />
+      <module name="qy-manager" target="1.8" />
+      <module name="qy-manager-dao" target="1.8" />
+      <module name="qy-manager-interface" target="1.8" />
+      <module name="qy-manager-pojo" target="1.8" />
+      <module name="qy-manager-service" target="1.8" />
+      <module name="qy-manager-web" target="1.8" />
+      <module name="qy-parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

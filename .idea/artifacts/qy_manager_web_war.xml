@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="qy-manager-web:war">
+    <output-path>$PROJECT_DIR$/qy-manager/qy-manager-web/target</output-path>
+    <root id="archive" name="qy-manager-web.war">
+      <element id="artifact" artifact-name="qy-manager-web:war exploded" />
+    </root>
+  </artifact>
+</component>
